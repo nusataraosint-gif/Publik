@@ -1,0 +1,12 @@
+[24-Feb-2024 20:42:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/aoszmybb/public_html/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/aoszmybb/public_html/config/app.php on line 19
+[24-Feb-2024 20:42:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/aoszmybb/public_html/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/aoszmybb/public_html/config/app.php on line 19
+[24-Feb-2024 20:46:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/aoszmybb/public_html/config/app.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/aoszmybb/public_html/config/app.php on line 19
